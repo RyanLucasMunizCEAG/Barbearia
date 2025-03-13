@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ptbr"
+<head>
+    <title>Site malicioso</title>
+</head>
+<body>
+    <style>
+    div.a {
+        text-align: center;
+}
+    </style>
+    <div class="a">
+
+        <h1>Barbearia</h1>
+        <p><b>Preço dos cortes abaixo</b></p>
+        <img src="file:///home/escola_/Downloads/iniciar_recursos_educacionais_digitais_plataformas.png" alt=
+        "Image" height="42" width="42">
+        </div>
+</body>
